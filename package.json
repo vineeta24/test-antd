@@ -1,5 +1,5 @@
 {
-  "name": "test-antd",
+  "name": "test-antd-vin",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "author": "vineeta kande",
   "license": "ISC",
@@ -7,7 +7,9 @@
   "private": false,
   "main": "dist/main.js",
   "module": "dist/main.js",
-  "files": [ "dist" ],
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.14.1",
@@ -48,5 +50,13 @@
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineeta24/test-antd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vineeta24/test-antd/issues"
+  },
+  "homepage": "https://github.com/vineeta24/test-antd#readme"
 }

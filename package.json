@@ -5,8 +5,8 @@
   "license": "ISC",
   "version": "0.1.0",
   "private": false,
-  "main": "dist/main.js",
-  "module": "dist/main.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "files": [
     "dist"
   ],
